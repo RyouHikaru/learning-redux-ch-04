@@ -1,4 +1,4 @@
-# Chapter 3
+# Chapter 4
 
 This chapter focused on refactoring the previous sample project to support CRUD operations.
 
